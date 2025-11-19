@@ -5,6 +5,10 @@ By automatically analyzing your system’s hardware and comparing it with Steam�
 
 ---
 
+![PixelBuddy Screenshot](logp.svg)
+
+---
+
 ## 🌟 Why PixelBuddy?
 
 Most PC gamers often struggle with questions like:
@@ -13,6 +17,10 @@ Most PC gamers often struggle with questions like:
 - *“Do I meet the recommended specs?”*
 
 PixelBuddy answers all of these instantly—no guesswork, no searching through specs, and no confusion.
+
+---
+
+![PixelBuddy Screenshot](ss.png)
 
 ---
 
@@ -55,6 +63,8 @@ PixelBuddy provides:
 It also displays a clean system requirement table extracted from Steam.
 
 ---
+
+![PixelBuddy Screenshot](ss1.png)
 
 ---
 
