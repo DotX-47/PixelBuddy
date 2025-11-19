@@ -5,7 +5,7 @@ By automatically analyzing your system’s hardware and comparing it with Steam�
 
 ---
 
-![PixelBuddy Logo](PixelBuddy/logp.svg)
+![PixelBuddy Logo](./logp.svg)
 
 ---
 
@@ -20,7 +20,7 @@ PixelBuddy answers all of these instantly—no guesswork, no searching through s
 
 ---
 
-![PixelBuddy Screenshot](PixelBuddy/ss.png)
+![PixelBuddy Screenshot](./ss.png)
 
 ---
 
