@@ -5,7 +5,7 @@ By automatically analyzing your systemâ€™s hardware and comparing it with Steamâ
 
 ---
 
-![PixelBuddy Logo](./logp.svg)
+![PixelBuddy Logo](PixelBuddy/logp.svg)
 
 ---
 
